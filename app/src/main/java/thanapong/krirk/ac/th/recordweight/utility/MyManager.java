@@ -21,6 +21,8 @@ public class MyManager {
 
 
 
+
+
         myOpenHelperSQLite = new MyOpenHelperSQLite(context);
         sqLiteDatabase = myOpenHelperSQLite.getWritableDatabase();
 
